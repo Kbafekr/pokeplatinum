@@ -2,6 +2,8 @@
 
 ##Change Impossible Evos
 
+##Include All Pokemon In Wild
+
 ##Add Rare/Event Items to Pokemarts
 
 ##Update Moves
