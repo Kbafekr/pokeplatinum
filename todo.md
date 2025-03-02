@@ -1,10 +1,16 @@
 #Todo
 
-##Change Impossible Evos
-
 ##Include All Pokemon In Wild
 
 ##Add Rare/Event Items to Pokemarts
+###Stones
+###Evo Items
+###Stat Items
+###TMs
+###Balls
+###Sacred Ash
+###Held Items
+
 
 ##Update Moves
 
@@ -16,6 +22,8 @@
 ####Create Evos
 ####Create Moves
 
+
+##Update Mining
 
 ##Create Static Events
 ###Mystery Gifts
