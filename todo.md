@@ -1,7 +1,5 @@
 # Todo
 
-## Update Moves
-
 
 ## Add Rare/Event Items to Pokemarts
 ### Stones

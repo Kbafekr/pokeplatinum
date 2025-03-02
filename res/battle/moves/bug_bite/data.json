@@ -2,7 +2,7 @@
     "name": "Bug Bite",
     "class": "CLASS_PHYSICAL",
     "type": "TYPE_BUG",
-    "power": 60,
+    "power": 100,
     "accuracy": 100,
     "pp": 20,
     "effect": {
