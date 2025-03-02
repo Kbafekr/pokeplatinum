@@ -137,7 +137,7 @@
         {
             "level_max": 10,
             "level_min": 5,
-            "species": "SPECIES_MAGIKARP"
+            "species": "SPECIES_FEEBAS"
         },
         {
             "level_max": 10,
@@ -165,7 +165,7 @@
         {
             "level_max": 25,
             "level_min": 10,
-            "species": "SPECIES_MAGIKARP"
+            "species": "SPECIES_FEEBAS"
         },
         {
             "level_max": 25,

@@ -72,11 +72,11 @@ _00E6:
 
 _0102:
     GetSpiritombCounter 0x800C
-    GoToIfGe 0x800C, 32, _014D
-    GoToIfGe 0x800C, 29, _01B1
-    GoToIfGe 0x800C, 22, _01A6
-    GoToIfGe 0x800C, 15, _019B
-    GoToIfGe 0x800C, 8, _0190
+    GoToIfGe 0x800C, 0, _014D
+    GoToIfGe 0x800C, 4, _01B1
+    GoToIfGe 0x800C, 3, _01A6
+    GoToIfGe 0x800C, 2, _019B
+    GoToIfGe 0x800C, 1, _0190
     GoTo _0185
 
 _014D:

@@ -18,7 +18,7 @@
             "species": "SPECIES_KRICKETOT"
         },
         {
-            "level": 3,
+            "level": 4,
             "species": "SPECIES_STARLY"
         },
         {
@@ -26,28 +26,28 @@
             "species": "SPECIES_BIDOOF"
         },
         {
+            "level": 5,
+            "species": "SPECIES_STARLY"
+        },
+        {
+            "level": 4,
+            "species": "SPECIES_BIDOOF"
+        },
+        {
             "level": 3,
-            "species": "SPECIES_STARLY"
+            "species": "SPECIES_BURMY"
+        },
+        {
+            "level": 5,
+            "species": "SPECIES_BIDOOF"
         },
         {
             "level": 3,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_CHERUBI"
         },
         {
             "level": 2,
-            "species": "SPECIES_STARLY"
-        },
-        {
-            "level": 2,
-            "species": "SPECIES_BIDOOF"
-        },
-        {
-            "level": 2,
-            "species": "SPECIES_STARLY"
-        },
-        {
-            "level": 2,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_COMBEE"
         }
     ],
     "swarms": [

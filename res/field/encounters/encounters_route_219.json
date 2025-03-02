@@ -114,7 +114,7 @@
         {
             "level_max": 40,
             "level_min": 20,
-            "species": "SPECIES_TENTACRUEL"
+            "species": "SPECIES_CLAMPERL"
         },
         {
             "level_max": 40,
@@ -198,7 +198,7 @@
         {
             "level_max": 55,
             "level_min": 40,
-            "species": "SPECIES_LUMINEON"
+            "species": "SPECIES_CLAMPERL"
         },
         {
             "level_max": 55,
