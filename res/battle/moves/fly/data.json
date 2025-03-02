@@ -2,8 +2,8 @@
     "name": "Fly",
     "class": "CLASS_PHYSICAL",
     "type": "TYPE_FLYING",
-    "power": 90,
-    "accuracy": 95,
+    "power": 130,
+    "accuracy": 100,
     "pp": 15,
     "effect": {
         "type": "BATTLE_EFFECT_FLY",

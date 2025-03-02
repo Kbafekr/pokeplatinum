@@ -1,5 +1,8 @@
 # Todo
 
+## Update Moves
+
+
 ## Add Rare/Event Items to Pokemarts
 ### Stones
 ### Evo Items
@@ -9,8 +12,6 @@
 ### Sacred Ash
 ### Held Items
 
-
-## Update Moves
 
 ## Add X Variants
 ### Create Game Data

@@ -2,7 +2,7 @@
     "name": "Waterfall",
     "class": "CLASS_PHYSICAL",
     "type": "TYPE_WATER",
-    "power": 80,
+    "power": 100,
     "accuracy": 100,
     "pp": 15,
     "effect": {

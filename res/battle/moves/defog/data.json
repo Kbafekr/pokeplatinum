@@ -1,13 +1,13 @@
 {
     "name": "Defog",
-    "class": "CLASS_STATUS",
+    "class": "CLASS_PHYSICAL",
     "type": "TYPE_FLYING",
-    "power": 0,
-    "accuracy": 0,
+    "power": 100,
+    "accuracy": 100,
     "pp": 15,
     "effect": {
         "type": "BATTLE_EFFECT_REMOVE_HAZARDS_SCREENS_EVA_DOWN",
-        "chance": 0
+        "chance": 100
     },
     "range": "RANGE_SINGLE_TARGET",
     "priority": 0,

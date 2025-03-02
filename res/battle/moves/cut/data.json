@@ -2,11 +2,11 @@
     "name": "Cut",
     "class": "CLASS_PHYSICAL",
     "type": "TYPE_NORMAL",
-    "power": 50,
-    "accuracy": 95,
+    "power": 90,
+    "accuracy": 100,
     "pp": 30,
     "effect": {
-        "type": "BATTLE_EFFECT_HIT",
+        "type": "BATTLE_EFFECT_HIGH_CRITICAL",
         "chance": 0
     },
     "range": "RANGE_SINGLE_TARGET",
