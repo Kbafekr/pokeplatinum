@@ -1,30 +1,28 @@
-#Todo
+# Todo
 
-##Include All Pokemon In Wild
-
-##Add Rare/Event Items to Pokemarts
-###Stones
-###Evo Items
-###Stat Items
-###TMs
-###Balls
-###Sacred Ash
-###Held Items
+## Add Rare/Event Items to Pokemarts
+### Stones
+### Evo Items
+### Stat Items
+### TMs
+### Balls
+### Sacred Ash
+### Held Items
 
 
-##Update Moves
+## Update Moves
 
-##Add X Variants
-###Create Game Data
-####Create Pokedex Entries
-####Create Sprites
-####Create Stats
-####Create Evos
-####Create Moves
+## Add X Variants
+### Create Game Data
+#### Create Pokedex Entries
+#### Create Sprites
+#### Create Stats
+#### Create Evos
+#### Create Moves
 
 
-##Update Mining
+## Update Mining
 
-##Create Static Events
-###Mystery Gifts
-###X Variants
+## Create Static Events
+### Mystery Gifts
+### X Variants
