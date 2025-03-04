@@ -7,11 +7,8 @@
 #### Create Stats
 #### Create Evos
 #### Create Moves
-Current Count: 19
+Current Count: 18
 <-
-- Chimchar
-- Monferno
-- Infernape
 
 - Piplup
 - Prinplup

@@ -1,21 +1,21 @@
 {
     "base_stats": {
-        "hp": 60,
-    "attack": 75,
-    "defense": 60,
-    "speed": 80,
-    "special_attack": 75,
-    "special_defense": 50
+       "hp": 80,
+    "attack": 100,
+    "defense": 70,
+    "speed": 100,
+    "special_attack": 100,
+    "special_defense": 90
     },
-    "types": [ "TYPE_FIRE", "TYPE_FIRE" ],
+    "types": [ "TYPE_FIRE", "TYPE_FIGHTING" ],
     "catch_rate": 45,
-    "base_exp_reward": 65,
+    "base_exp_reward": 142,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
         "defense": 0,
         "speed": 1,
-        "special_attack": 0,
+        "special_attack": 1,
         "special_defense": 0
     },
     "held_items": {
@@ -27,7 +27,7 @@
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_FAST",
     "egg_groups": [ "EGG_GROUP_FIELD", "EGG_GROUP_HUMAN_LIKE" ],
-    "abilities": [ "ABILITY_FLAME_BODY", "ABILITY_NONE" ],
+    "abilities": [ "ABILITY_TECHNICIAN", "ABILITY_NONE" ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_BROWN",
     "flip_sprite": true,
@@ -35,16 +35,19 @@
         "by_level": [
             [ 1, "MOVE_SCRATCH" ],
             [ 1, "MOVE_LEER" ],
-            [ 6, "MOVE_EMBER" ],
-            [ 8, "MOVE_TAUNT" ],
-            [ 10, "MOVE_FURY_SWIPES" ],
-            [ 12, "MOVE_FLAME_WHEEL" ],
-            [ 14, "MOVE_NASTY_PLOT" ],
-            [ 25, "MOVE_TORMENT" ],
-            [ 31, "MOVE_FACADE" ],
-            [ 33, "MOVE_FIRE_SPIN" ],
-            [ 39, "MOVE_SLACK_OFF" ],
-            [ 41, "MOVE_FLAMETHROWER" ]
+            [ 1, "MOVE_EMBER" ],
+            [ 7, "MOVE_EMBER" ],
+            [ 9, "MOVE_TAUNT" ],
+            [ 14, "MOVE_MACH_PUNCH" ],
+            [ 17, "MOVE_FEINT" ],
+            [ 20, "MOVE_TORMENT" ],
+            [ 23, "MOVE_FIRE_SPIN" ],
+            [ 26, "MOVE_FACADE" ],
+            [ 29, "MOVE_SLACK_OFF" ],
+            [ 32, "MOVE_FLAMETHROWER" ],
+            [ 35, "MOVE_BULK_UP" ],
+            [ 36, "MOVE_CLOSE_COMBAT" ],
+            [ 49, "MOVE_FLARE_BLITZ" ]
         ],
         "by_tm": [
             "TM01",
@@ -62,6 +65,7 @@
             "TM32",
             "TM35",
             "TM38",
+            "TM39",
             "TM40",
             "TM41",
             "TM42",
@@ -69,6 +73,7 @@
             "TM44",
             "TM45",
             "TM50",
+            "TM52",
             "TM56",
             "TM58",
             "TM61",
@@ -76,8 +81,10 @@
             "TM75",
             "TM76",
             "TM78",
+            "TM80",
             "TM82",
             "TM83",
+            "TM84",
             "TM86",
             "TM87",
             "TM89",
@@ -98,15 +105,14 @@
             "MOVE_VACUUM_WAVE",
             "MOVE_GUNK_SHOT",
             "MOVE_HEAT_WAVE",
-            "MOVE_SWIFT",
-            "MOVE_UPROAR"
+            "MOVE_SWIFT"
         ]
     },
     "evolutions": [
         [
             "EVO_LEVEL",
-            14,
-            "SPECIES_MONFERNO1"
+            36,
+            "SPECIES_INFERNAPE1"
         ]
     ],
     "footprint": {
@@ -114,77 +120,77 @@
         "size": "FOOTPRINT_MEDIUM"
     },
     "pokedex_data": {
-        "height": 5,
-        "weight": 62,
+        "height": 9,
+        "weight": 220,
         "body_shape": "SHAPE_BIPEDAL_TAILED",
         "trainer_scale_f": 272,
-        "pokemon_scale_f": 430,
+        "pokemon_scale_f": 309,
         "trainer_scale_m": 256,
-        "pokemon_scale_m": 430,
+        "pokemon_scale_m": 309,
         "trainer_pos_f": 8,
-        "pokemon_pos_f": 25,
+        "pokemon_pos_f": 17,
         "trainer_pos_m": 9,
-        "pokemon_pos_m": 25,
+        "pokemon_pos_m": 17,
         "en": {
-            "name": "CHIMCHAR",
-            "category": "Chimp Pokémon",
+            "name": "MONFERNO",
+            "category": "Playful Pokémon",
             "entry_text": [
-                "It is very agile. Before going to\n",
-                "sleep, it extinguishes the flame\n",
-                "on its tail to prevent fires."
+                "It skillfully controls the intensity\n",
+                "of the fire on its tail to keep its\n",
+                "foes at an ideal distance."
             ]
         },
         "fr": {
-            "name": "OUISTICRAM",
-            "category": "Pokémon Chimpanzé",
+            "name": "CHIMPENFEU",
+            "category": "Pokémon Garnement",
             "entry_text": [
-                "Il escalade prestement les falaises\n",
-                "escarpées et vit sur les sommets.\n",
-                "Sa flamme s’éteint quand il dort."
+                "Pour intimider ses agresseurs, il\n",
+                "gonfle les flammes de sa queue\n",
+                "pour paraître plus grand."
             ]
         },
         "de": {
-            "name": "PANFLAM",
-            "category": "Schimpanse",
+            "name": "PANPYRO",
+            "category": "Verspielt",
             "entry_text": [
-                "Es klettert behände steile Felsen\n",
-                "hinauf, um auf Bergen zu leben. Sein\n",
-                "Feuer ist aus, wenn es schläft."
+                "Um Angreifer abzuschrecken,\n",
+                "verstärkt es das Feuer auf seinem\n",
+                "Schweif, wodurch es größer wirkt."
             ]
         },
         "it": {
-            "name": "CHIMCHAR",
-            "category": "Pokémon Scimpanzé",
+            "name": "MONFERNO",
+            "category": "Pokémon Briccone",
             "entry_text": [
-                "Scala agilmente le rocce scoscese\n",
-                "e vive in cima ai monti. Prima\n",
-                "di dormire spegne le fiamme."
+                "Per intimorire i nemici che\n",
+                "attaccano, intensifica le fiamme\n",
+                "sulla coda per apparire più grande."
             ]
         },
         "es": {
-            "name": "CHIMCHAR",
-            "category": "Pokémon Chimpancé",
+            "name": "MONFERNO",
+            "category": "Pokémon Juguetón",
             "entry_text": [
-                "Escala acantilados escarpados con\n",
-                "agilidad. Vive en las montañas y\n",
-                "su fuego se apaga cuando duerme."
+                "Intimida a sus enemigos\n",
+                "desplegando el fuego de su\n",
+                "cola para parecer más grande."
             ]
         },
         "jp": {
-            "name": "ヒコザル",
-            "category": "こざるポケモン",
+            "name": "モウカザル",
+            "category": "やんちゃポケモン",
             "entry_text": [
-                "だんがいぜっぺきを　みがるに　のぼり\n",
-                "いわやまの　うえで　せいかつする。\n",
-                "ほのおを　けして　ねむる。"
+                "しっぽの　ほのおを　ながく　のばして\n",
+                "からだを　おおきく　みせることで\n",
+                "おそってきた　てきを　こわがらせる。"
             ]
         }
     },
     "catching_show": {
         "pal_park_land_area": "PAL_PARK_AREA_LAND_SOUTH_WEST",
         "pal_park_water_area": "PAL_PARK_AREA_WATER_NONE",
-        "catching_points": 50,
-        "rarity": 30,
-        "unused": 514
+        "catching_points": 80,
+        "rarity": 10,
+        "unused": 2306
     }
 }
