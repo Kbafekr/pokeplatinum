@@ -7,13 +7,8 @@
 #### Create Stats
 #### Create Evos
 #### Create Moves
-Current Count: 18
+Current Count: 17
 <-
-
-- Piplup
-- Prinplup
-- Empoleon
-
 - Starly
 - Staravia
 - Staraptor

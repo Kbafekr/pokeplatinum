@@ -1,11 +1,11 @@
 {
     "base_stats": {
-        "hp": 64,
-        "attack": 66,
-        "defense": 68,
-        "speed": 50,
-        "special_attack": 81,
-        "special_defense": 76
+       "hp": 85,
+    "attack": 88,
+    "defense": 91,
+    "speed": 67,
+    "special_attack": 108,
+    "special_defense": 101
     },
     "types": [ "TYPE_WATER", "TYPE_WATER" ],
     "catch_rate": 45,
@@ -25,9 +25,9 @@
     "gender_ratio": "GENDER_RATIO_FEMALE_12_5",
     "hatch_cycles": 20,
     "base_friendship": 70,
-    "exp_rate": "EXP_RATE_MEDIUM_SLOW",
+    "exp_rate": "EXP_RATE_FAST",
     "egg_groups": [ "EGG_GROUP_WATER_1", "EGG_GROUP_FIELD" ],
-    "abilities": [ "ABILITY_TORRENT", "ABILITY_NONE" ],
+    "abilities": [ "ABILITY_ICE_BODY", "ABILITY_NONE" ],
     "safari_flee_rate": 0,
     "body_color": "MON_COLOR_BLUE",
     "flip_sprite": false,
@@ -40,14 +40,12 @@
             [ 11, "MOVE_WATER_SPORT" ],
             [ 15, "MOVE_PECK" ],
             [ 16, "MOVE_METAL_CLAW" ],
-            [ 19, "MOVE_BUBBLE_BEAM" ],
-            [ 24, "MOVE_BIDE" ],
-            [ 28, "MOVE_FURY_ATTACK" ],
-            [ 33, "MOVE_BRINE" ],
-            [ 37, "MOVE_WHIRLPOOL" ],
-            [ 42, "MOVE_MIST" ],
-            [ 46, "MOVE_DRILL_PECK" ],
-            [ 51, "MOVE_HYDRO_PUMP" ]
+            [ 19, "MOVE_WHIRLPOOL" ],
+            [ 22, "MOVE_MIST" ],
+            [ 25, "MOVE_DRILL_PECK" ],
+            [ 28, "MOVE_ICY_WIND" ],
+            [ 31, "MOVE_IRON_DEFENSE" ],
+            [ 34, "MOVE_BRICK_BREAK" ]
         ],
         "by_tm": [
             "TM03",
@@ -100,7 +98,7 @@
         [
             "EVO_LEVEL",
             36,
-            "SPECIES_EMPOLEON"
+            "SPECIES_EMPOLEON1"
         ]
     ],
     "footprint": {
