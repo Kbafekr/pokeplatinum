@@ -9,7 +9,6 @@
 #### Create Moves
 Current Count: 22
 <-
-- Turtwig
 - Grotle
 - Torterra
 
@@ -82,9 +81,6 @@ Current Count: 22
 - Swinub
 - Piloswine
 - Mamoswine
-
-
-
 >
 
 
