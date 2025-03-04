@@ -7,11 +7,8 @@
 #### Create Stats
 #### Create Evos
 #### Create Moves
-Current Count: 22
+Current Count: 19
 <-
-- Grotle
-- Torterra
-
 - Chimchar
 - Monferno
 - Infernape
@@ -89,3 +86,55 @@ Current Count: 22
 ## Create Static Events
 ### Mystery Gifts
 ### X Variants
+Current Count: 25
+<-
+- Turtwig
+
+- Chimchar
+
+- Piplup
+
+- Starly
+
+- Shinx
+
+- Cranidos
+
+- Shieldon
+
+- Pachirisu
+
+- Buizel
+
+- Cherubi
+
+- Chatot
+
+- Spiritomb
+
+- Gible
+
+- Riolu
+
+- Eevee
+
+- Rhyhorn
+
+- Duskull
+
+- Porygon
+
+- Elekid
+
+- Magby
+
+- Swinub
+
+- Darkrai (Membership Card)
+
+- Shaymin (Oak's Letter)
+
+- Arceus (Azure Flute)
+
+- Manaphy (Egg)
+>
